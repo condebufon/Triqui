@@ -26,3 +26,7 @@ El código que utilizaremos para este proyecto está diseñado para ser fácil d
 Inicialización del Tablero: Se crea una representación del tablero utilizando una lista de listas. Esto nos permite visualizar el estado del juego de manera clara.
 Interacción con los Jugadores: Se solicita a los jugadores que ingresen sus movimientos, especificando la fila y la columna donde desean colocar su símbolo. El código incluye validaciones para asegurar que los movimientos sean válidos.
 Verificación de Ganador: Después de cada movimiento, el código verifica si alguno de los jugadores ha ganado al alinear sus símbolos en filas, columnas o diagonales.
+
+codigo: https://replit.com/@condebufon/triqui#main.py
+
+
