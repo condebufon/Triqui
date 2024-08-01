@@ -1,7 +1,7 @@
 <h1 align="center">Proyecto Triqui</h1>
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px height=200px src="img/sudoku.jpg"
+ <img width=300px height=200px src="img/triqui.jpg"
 </p>
 
 <h1 align="center">Clase de Python</h1>
