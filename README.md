@@ -27,6 +27,6 @@ Inicialización del Tablero: Se crea una representación del tablero utilizando 
 Interacción con los Jugadores: Se solicita a los jugadores que ingresen sus movimientos, especificando la fila y la columna donde desean colocar su símbolo. El código incluye validaciones para asegurar que los movimientos sean válidos.
 Verificación de Ganador: Después de cada movimiento, el código verifica si alguno de los jugadores ha ganado al alinear sus símbolos en filas, columnas o diagonales.
 
-codigo: [https://replit.com/@condebufon/triqui#main.py](https://replit.com/@condebufon/triqui#main.py)
+codigo: https://replit.com/@condebufon/triqui#main.py
 
 
